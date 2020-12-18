@@ -1,0 +1,12 @@
+{
+    "name": "sushre/updater",
+    "description": "helper to update wordpress private plugins",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sulav Shrestha",
+            "email": "connect@sulav.name.np"
+        }
+    ],
+    "require": {}
+}
