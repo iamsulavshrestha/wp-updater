@@ -2,6 +2,11 @@
     "name": "sushre/updater",
     "description": "helper to update wordpress private plugins",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sushre\\Updater\\": "./"
+        }
+    },
     "authors": [
         {
             "name": "Sulav Shrestha",
